@@ -11,9 +11,12 @@ Hllo,我是一名嵌入式小白<br>喜欢做一些有趣的嵌入式小demo,正
 💪 **My Current Skills**:
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![C Language](https://img.shields.io/badge/C-Language-blue?logo=c)
+![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Enabled-brightgreen?logo=freertos)
+![LVGL](https://img.shields.io/badge/LVGL-GUI%20Library-green?logo=lvgl)
+![QT](https://img.shields.io/badge/QT-Framework-red?logo=qt)
+![Linux](https://img.shields.io/badge/Linux-OS-orange?logo=linux)
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 

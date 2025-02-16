@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 嵌入式小白— 学不会傅里叶
 
 热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
 
@@ -26,13 +26,13 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+//[![](https://github-readme-stats.vercel.app/api/pin/?username=laozhichi&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=laozhichi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=laozhichi&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laozhichi&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laozhichi&layout=compact&langs_count=6)
